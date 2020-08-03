@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bárbara Bitarello</title>
+    <link>https://bbitarello.github.io/</link>
+      <atom:link href="https://bbitarello.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bárbara Bitarello</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bárbara Bitarello</title>
+      <link>https://bbitarello.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>https://bbitarello.github.io/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://bbitarello.github.io/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>https://bbitarello.github.io/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://bbitarello.github.io/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How The Lion King turned me into a scientist</title>
+      <link>https://bbitarello.github.io/post/how-lion-king/</link>
+      <pubDate>Sat, 01 Aug 2020 14:29:47 -0400</pubDate>
+      <guid>https://bbitarello.github.io/post/how-lion-king/</guid>
+      <description>&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://medium.com/@barbara_dutty/how-the-lion-king-turned-me-into-a-scientist-6c9df108ec73&#34;&gt;How &#34;The Lion King&#34; turned me into a scientist&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Recently, my therapist asked me to do some homework. She asked me to reflect on the question &#34;what did I want to be when I grew up?&#34; looking as far back into the past as I could remember. A few...&lt;/p&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GnomAD API Query Tool</title>
+      <link>https://bbitarello.github.io/post/gnomad-api-query/</link>
+      <pubDate>Tue, 21 Jul 2020 19:09:57 -0400</pubDate>
+      <guid>https://bbitarello.github.io/post/gnomad-api-query/</guid>
+      <description>&lt;p&gt;Tl; dr, I love to tell a good story. If you don&amp;rsquo;t wanna read that, no worries. Just 
+&lt;a href=&#34;#a-brief-tutorial&#34;&gt;skip ahead&lt;/a&gt; or get 
+&lt;a href=&#34;https://github.com/crankysparrow/computationalbio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;straight to business&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Now, to the story.&lt;/p&gt;
+&lt;p&gt;I have been working on a project where I was using population allelic frequencies for about 6,000 SNPs (single nucleotide polymorphisms) for CEU (North Americans from UTAH with European ancestry) individuals from the 
+&lt;a href=&#34;https://www.internationalgenome.org/faq/what-do-your-population-codes-ceu-or-tsi-mean/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1000 Genomes Project&lt;/a&gt;. We have our own copy of this dataset in our computer, and it&amp;rsquo;s relatively straightforward to get those frequencies from vcf files. All good.&lt;/p&gt;
+&lt;p&gt;Then, I decided I should check whether CEU individuals were a good proxy for allelic frequencies in Europeans (excluding Finnish, which due to their interesting demographic history are usually excluded for this kind of analysis). I wanted to do this by comparing the allelic frequencies for CEU from the 1000 Genomes (404 individuals) to the tens of thousands &amp;lsquo;non-Finnish European&amp;rsquo; samples from the the Genome Aggregation Database (
+&lt;a href=&#34;https://gnomad.broadinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gnomAD&lt;/a&gt;). Hence, I went to their website and thought to myself that downloading their entire dataset and calculating allelic frequencies did not strike me as elegant. Neigther did the idea of manually quering ~6,000 SNP IDs on the gnomAD browser (which is great if you only have a few SNPs to look at). No batch submission option was available.&lt;/p&gt;
+&lt;p&gt;There must be a well-established gnomAD API query tool available, right? Wrong! No such tool. Of course, I did find some solutions people made here and there, but none of them did exactly what I wanted.&lt;/p&gt;
+&lt;p&gt;Enters 
+&lt;a href=&#34;https://michelleenos.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michelle Enos&lt;/a&gt;, who is an awesome web developper and is entirely foreign to the field of computational biology. I explained what I needed and they made the tool I needed in javascript (which I am not fluent in). Modest, @crankysparrow thought this wasn&amp;rsquo;t much, &amp;lsquo;a fun little project&amp;rsquo;. But looking at biostars &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, I begged to differ: we 
+&lt;a href=&#34;https://www.biostars.org/p/375279/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;NEED&lt;/em&gt; this&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Even cooler, after they did the hard work, I was able to tweek the script to include some options that computational biologists would appreciate. Feedback is appreciated.&lt;/p&gt;
+&lt;p&gt;So here it is, from us, to you. A gnomAD API query tool that gathers gnomad-genomes or gnomad-exomes allelic frequencies for a list of SNP IDs for a population defined by the user. 
+&lt;a href=&#34;https://github.com/crankysparrow/computationalbio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link here&lt;/a&gt;. Enjoy!&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;a-brief-tutorial&#34;&gt;A brief tutorial:&lt;/h2&gt;
+&lt;p&gt;Requirements:&lt;/p&gt;
+&lt;p&gt;*node must be installed&lt;/p&gt;
+&lt;p&gt;*command line&lt;/p&gt;
+&lt;p&gt;*npm must be installed&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;: instructions available at the 
+&lt;a href=&#34;https://github.com/crankysparrow/computationalbio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repo&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;input-file&#34;&gt;Input file&lt;/h2&gt;
+&lt;p&gt;This should be a .json file with the SNP IDs you would like to query. IF you have a regular text file with one ID per line, you can use our 
+&lt;a href=&#34;https://github.com/crankysparrow/computationalbio/blob/master/scripts/readIDs.js&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;conversion tool&lt;/a&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;node scripts/readIDs.js --input path/&amp;lt;your_text_file_with_SNP_ids&amp;gt;.txt
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This will produce an output file with the same name, but ending in &amp;lsquo;.json&amp;rsquo;. Then you can run:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;node scripts/gnomad_query.js --input input/&amp;lt;our_SNP_IDs&amp;gt;.json --pop &#39;NFE&#39; --db &#39;GNOMAD&#39;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Biostars is the stackoverflow of computational biologists. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Polygenic Risk Score performance</title>
+      <link>https://bbitarello.github.io/project/polygenic/</link>
+      <pubDate>Sat, 04 Jul 2020 14:18:14 -0400</pubDate>
+      <guid>https://bbitarello.github.io/project/polygenic/</guid>
+      <description>&lt;p&gt;Polygenic risk scores (PRS) summarise the genetic information spread across several genetic variants into one single number. This number can be use to predict an individual&amp;rsquo;s phenotype or - more realistically - to place an individual in risk groups according to their PRS.&lt;/p&gt;
+&lt;p&gt;Many different steps are involved in calculating a PRS that is meaningful. For instance, the quality of the summary statistics is paramount. The choice of which variants to include in the PRS is also far from trivial and can involve simple &lt;em&gt;ad hoc&lt;/em&gt; approaches (such as C+T) or model-based approaches such as LDpred and LDpred2. Finally, there are the issues of validation and overfitting in the validation set, as well as the even more complicated issue of transferability of polygenic risk scores across ancestries. This project touches upon all of these issues, but particularly on the latter.&lt;/p&gt;
+&lt;p&gt;Please see my talks, presentations, and papers/preprints for more information.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LDpred2: Better, Faster, Stronger</title>
+      <link>https://bbitarello.github.io/post/ldpred2/</link>
+      <pubDate>Thu, 02 Jul 2020 17:27:31 -0400</pubDate>
+      <guid>https://bbitarello.github.io/post/ldpred2/</guid>
+      <description>&lt;p&gt;Today we discussed the new version of LDpred: LDpred2 (
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.28.066720v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4596916/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;original publication&lt;/a&gt;. Rather, this seems to be a &amp;lsquo;Bioinformatics&amp;rsquo; style preprint that goes straight to the novelties:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;LDpred2 runs in R instead of in Python like its predecessor;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LDpred2 has four implementations (LDpred2-inf, LDpred2, LDpred2-sparse, LDpred2-auto), compared to two from its predecessor (LDpred-inf, LDpred);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LDpred2-auto estimates both &lt;em&gt;p&lt;/em&gt; (proportion of causal variants) and &lt;em&gt;h&lt;sup&gt;2&lt;/sup&gt;&lt;/em&gt; (SNP heritability) from the test data, without requiring a validadation set for hyperparameter optimization (this option is great, provided that appropriate QC is performed in the summary statistics);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LDpred2-sparse allows some some of the causal variants to actually have effect sizes of zero;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LDpred2 parallelizes both the grid of hyperparameters as well as the chromosomes (run in parallel) via C++, which makes it faster;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;By changing how the LD radius is defined in the weight estimation (Gibbs sampler) step, it performs much better in regions of long-range LD such as the MHC region. Instead of defining a SNP window of a&lt;em&gt;M&lt;/em&gt;\3000 in each direction (&lt;em&gt;M&lt;/em&gt; is the number of causal variants, roughly 1Mb), it defines the window in terms of genetic distances and the default value is 3 cM;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Personally, I have spent quite some time figuring out the error messages that LDpred provides, as well as studying the models that it implements. Also, I am a big R fan, so it would be a shame to see all my efforts with LDpred go to waste: I am definitely switching to LDpred2, which runs 100% in R. The first author has kindly provided 
+&lt;a href=&#34;https://privefl.github.io/bigsnpr/articles/LDpred2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a tutorial&lt;/a&gt;, which I see as a big bonus.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TL;dr:&lt;/strong&gt; If you are already using LDpred1 (i.e, you have spent time figuring out how it runs, as well as the underlying models), it is definitely worth switching to LDpred2. If you are just beginning your exploration of Polygenic Risk Scores, a less overwhelming approach would be to start with C+T (clumping and thresholding), which is very simple, fast, effective, and requires nothing too fancy. If you are already using another fancy approach such as lassosum, LDpred2 does not seem to do better than that, so I would stick with what is working for you.&lt;/p&gt;
+&lt;p&gt;I will write something about my experience running LDpred2 in the coming weeks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LDpred2: Faster, Better, Stronger</title>
+      <link>https://bbitarello.github.io/slides/my-first-slide/</link>
+      <pubDate>Thu, 02 Jul 2020 17:04:29 -0400</pubDate>
+      <guid>https://bbitarello.github.io/slides/my-first-slide/</guid>
+      <description>&lt;p&gt;Here is 
+&lt;a href=&#34;https://github.com/bbitarello/LDpred2-Presentation/blob/master/LDpred2_Journal_Club%20%283%29.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a slide presentation&lt;/a&gt; for discussing the 
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.28.066720v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LDpred2 preprint&lt;/a&gt;. Use freely but please give me attribution by referencing my website and my github. Thank you.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low transferability of height polygenic risk scores in admixed ancestry populations</title>
+      <link>https://bbitarello.github.io/talk/low/</link>
+      <pubDate>Fri, 17 Jan 2020 12:00:00 -1220</pubDate>
+      <guid>https://bbitarello.github.io/talk/low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus</title>
+      <link>https://bbitarello.github.io/publication/mathieson-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://bbitarello.github.io/publication/mathieson-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polygenic scores for height in admixed populations</title>
+      <link>https://bbitarello.github.io/publication/bitarello-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://bbitarello.github.io/publication/bitarello-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary and functional impact of common polymorphic inversions in the human genome</title>
+      <link>https://bbitarello.github.io/publication/carla-giner-delgado-sergi-villatoro-jon-lerga-jaso-magdalena-gaya-vidal-meritxell-oliva-david-castellano-lorena-pantano-barbara-bitarello-david-izquierdo-isaac-noguera-inigo-olalde-alejandra-delprat-antoine-blancher-carles-lalueza-fox-tonu-e-2018/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0500</pubDate>
+      <guid>https://bbitarello.github.io/publication/carla-giner-delgado-sergi-villatoro-jon-lerga-jaso-magdalena-gaya-vidal-meritxell-oliva-david-castellano-lorena-pantano-barbara-bitarello-david-izquierdo-isaac-noguera-inigo-olalde-alejandra-delprat-antoine-blancher-carles-lalueza-fox-tonu-e-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the lack of transferability of polygenic risk scores in cohorts with admixed ancestry</title>
+      <link>https://bbitarello.github.io/talk/polygenic_2/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 -0400</pubDate>
+      <guid>https://bbitarello.github.io/talk/polygenic_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://bbitarello.github.io/resume/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://bbitarello.github.io/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polygenic risk scores perform poorly across populations</title>
+      <link>https://bbitarello.github.io/talk/polygenic/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 -0400</pubDate>
+      <guid>https://bbitarello.github.io/talk/polygenic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signatures of long-term balancing selection in human genomes</title>
+      <link>https://bbitarello.github.io/publication/meyer-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <guid>https://bbitarello.github.io/publication/meyer-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A genomic perspective on HLA evolution</title>
+      <link>https://bbitarello.github.io/publication/meyer-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <guid>https://bbitarello.github.io/publication/meyer-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity of dN/dS Ratios at the Classical HLA Class I Genes over Divergence Time and Across the Allelic Phylogeny</title>
+      <link>https://bbitarello.github.io/publication/bitarello-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      <guid>https://bbitarello.github.io/publication/bitarello-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HLA supertype variation across populations: new insights into the role of natural selection in the evolution of HLA-A and HLA-B polymorphisms</title>
+      <link>https://bbitarello.github.io/publication/dos-santos-francisco-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      <guid>https://bbitarello.github.io/publication/dos-santos-francisco-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kiwi genome provides insights into evolution of a nocturnal lifestyle</title>
+      <link>https://bbitarello.github.io/publication/le-duc-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      <guid>https://bbitarello.github.io/publication/le-duc-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping bias overestimates reference allele frequencies at the HLA genes in the 1000 genomes project phase I data</title>
+      <link>https://bbitarello.github.io/publication/brandt-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      <guid>https://bbitarello.github.io/publication/brandt-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intercruzmento de humanos modernos e neandertais: novas perspectivas a luz da genética</title>
+      <link>https://bbitarello.github.io/publication/bitarello-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
+      <guid>https://bbitarello.github.io/publication/bitarello-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of polymorphic microsatellite markers for the human botfly, Dermatobia hominis (Diptera: Oestridae)</title>
+      <link>https://bbitarello.github.io/publication/bitarello-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 -0500</pubDate>
+      <guid>https://bbitarello.github.io/publication/bitarello-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PROJETO GENOGRÁFICO E AS IMPLICAÇÕES DA POPULARIZAÇÃO</title>
+      <link>https://bbitarello.github.io/publication/project-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 -0500</pubDate>
+      <guid>https://bbitarello.github.io/publication/project-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

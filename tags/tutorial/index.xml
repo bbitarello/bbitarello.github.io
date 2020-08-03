@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial | Bárbara Bitarello</title>
+    <link>https://bbitarello.github.io/tags/tutorial/</link>
+      <atom:link href="https://bbitarello.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <description>tutorial</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Tue, 21 Jul 2020 19:09:57 -0400</lastBuildDate>
+    <image>
+      <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>tutorial</title>
+      <link>https://bbitarello.github.io/tags/tutorial/</link>
+    </image>
+    
+    <item>
+      <title>GnomAD API Query Tool</title>
+      <link>https://bbitarello.github.io/post/gnomad-api-query/</link>
+      <pubDate>Tue, 21 Jul 2020 19:09:57 -0400</pubDate>
+      <guid>https://bbitarello.github.io/post/gnomad-api-query/</guid>
+      <description>&lt;p&gt;Tl; dr, I love to tell a good story. If you don&amp;rsquo;t wanna read that, no worries. Just 
+&lt;a href=&#34;#a-brief-tutorial&#34;&gt;skip ahead&lt;/a&gt; or get 
+&lt;a href=&#34;https://github.com/crankysparrow/computationalbio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;straight to business&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Now, to the story.&lt;/p&gt;
+&lt;p&gt;I have been working on a project where I was using population allelic frequencies for about 6,000 SNPs (single nucleotide polymorphisms) for CEU (North Americans from UTAH with European ancestry) individuals from the 
+&lt;a href=&#34;https://www.internationalgenome.org/faq/what-do-your-population-codes-ceu-or-tsi-mean/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1000 Genomes Project&lt;/a&gt;. We have our own copy of this dataset in our computer, and it&amp;rsquo;s relatively straightforward to get those frequencies from vcf files. All good.&lt;/p&gt;
+&lt;p&gt;Then, I decided I should check whether CEU individuals were a good proxy for allelic frequencies in Europeans (excluding Finnish, which due to their interesting demographic history are usually excluded for this kind of analysis). I wanted to do this by comparing the allelic frequencies for CEU from the 1000 Genomes (404 individuals) to the tens of thousands &amp;lsquo;non-Finnish European&amp;rsquo; samples from the the Genome Aggregation Database (
+&lt;a href=&#34;https://gnomad.broadinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gnomAD&lt;/a&gt;). Hence, I went to their website and thought to myself that downloading their entire dataset and calculating allelic frequencies did not strike me as elegant. Neigther did the idea of manually quering ~6,000 SNP IDs on the gnomAD browser (which is great if you only have a few SNPs to look at). No batch submission option was available.&lt;/p&gt;
+&lt;p&gt;There must be a well-established gnomAD API query tool available, right? Wrong! No such tool. Of course, I did find some solutions people made here and there, but none of them did exactly what I wanted.&lt;/p&gt;
+&lt;p&gt;Enters 
+&lt;a href=&#34;https://michelleenos.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michelle Enos&lt;/a&gt;, who is an awesome web developper and is entirely foreign to the field of computational biology. I explained what I needed and they made the tool I needed in javascript (which I am not fluent in). Modest, @crankysparrow thought this wasn&amp;rsquo;t much, &amp;lsquo;a fun little project&amp;rsquo;. But looking at biostars &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, I begged to differ: we 
+&lt;a href=&#34;https://www.biostars.org/p/375279/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;NEED&lt;/em&gt; this&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Even cooler, after they did the hard work, I was able to tweek the script to include some options that computational biologists would appreciate. Feedback is appreciated.&lt;/p&gt;
+&lt;p&gt;So here it is, from us, to you. A gnomAD API query tool that gathers gnomad-genomes or gnomad-exomes allelic frequencies for a list of SNP IDs for a population defined by the user. 
+&lt;a href=&#34;https://github.com/crankysparrow/computationalbio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link here&lt;/a&gt;. Enjoy!&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;a-brief-tutorial&#34;&gt;A brief tutorial:&lt;/h2&gt;
+&lt;p&gt;Requirements:&lt;/p&gt;
+&lt;p&gt;*node must be installed&lt;/p&gt;
+&lt;p&gt;*command line&lt;/p&gt;
+&lt;p&gt;*npm must be installed&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;: instructions available at the 
+&lt;a href=&#34;https://github.com/crankysparrow/computationalbio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repo&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;input-file&#34;&gt;Input file&lt;/h2&gt;
+&lt;p&gt;This should be a .json file with the SNP IDs you would like to query. IF you have a regular text file with one ID per line, you can use our 
+&lt;a href=&#34;https://github.com/crankysparrow/computationalbio/blob/master/scripts/readIDs.js&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;conversion tool&lt;/a&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;node scripts/readIDs.js --input path/&amp;lt;your_text_file_with_SNP_ids&amp;gt;.txt
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This will produce an output file with the same name, but ending in &amp;lsquo;.json&amp;rsquo;. Then you can run:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;node scripts/gnomad_query.js --input input/&amp;lt;our_SNP_IDs&amp;gt;.json --pop &#39;NFE&#39; --db &#39;GNOMAD&#39;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Biostars is the stackoverflow of computational biologists. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
