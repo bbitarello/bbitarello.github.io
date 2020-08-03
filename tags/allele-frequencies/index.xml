@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>allele frequencies | Bárbara Bitarello</title>
-    <link>https://bbitarello.github.io/tags/allele-frequencies/</link>
-      <atom:link href="https://bbitarello.github.io/tags/allele-frequencies/index.xml" rel="self" type="application/rss+xml" />
+    <link>bbitarello.github.io/tags/allele-frequencies/</link>
+      <atom:link href="bbitarello.github.io/tags/allele-frequencies/index.xml" rel="self" type="application/rss+xml" />
     <description>allele frequencies</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Tue, 21 Jul 2020 19:09:57 -0400</lastBuildDate>
     <image>
-      <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>allele frequencies</title>
-      <link>https://bbitarello.github.io/tags/allele-frequencies/</link>
+      <link>bbitarello.github.io/tags/allele-frequencies/</link>
     </image>
     
     <item>
       <title>GnomAD API Query Tool</title>
-      <link>https://bbitarello.github.io/post/gnomad-api-query/</link>
+      <link>bbitarello.github.io/post/gnomad-api-query/</link>
       <pubDate>Tue, 21 Jul 2020 19:09:57 -0400</pubDate>
-      <guid>https://bbitarello.github.io/post/gnomad-api-query/</guid>
+      <guid>bbitarello.github.io/post/gnomad-api-query/</guid>
       <description>&lt;p&gt;Tl; dr, I love to tell a good story. If you don&amp;rsquo;t wanna read that, no worries. Just 
 &lt;a href=&#34;#a-brief-tutorial&#34;&gt;skip ahead&lt;/a&gt; or get 
 &lt;a href=&#34;https://github.com/crankysparrow/computationalbio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;straight to business&lt;/a&gt;!&lt;/p&gt;

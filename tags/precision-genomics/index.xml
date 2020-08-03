@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>precision genomics | Bárbara Bitarello</title>
-    <link>https://bbitarello.github.io/tags/precision-genomics/</link>
-      <atom:link href="https://bbitarello.github.io/tags/precision-genomics/index.xml" rel="self" type="application/rss+xml" />
+    <link>bbitarello.github.io/tags/precision-genomics/</link>
+      <atom:link href="bbitarello.github.io/tags/precision-genomics/index.xml" rel="self" type="application/rss+xml" />
     <description>precision genomics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Thu, 02 Jul 2020 17:27:31 -0400</lastBuildDate>
     <image>
-      <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>precision genomics</title>
-      <link>https://bbitarello.github.io/tags/precision-genomics/</link>
+      <link>bbitarello.github.io/tags/precision-genomics/</link>
     </image>
     
     <item>
       <title>LDpred2: Better, Faster, Stronger</title>
-      <link>https://bbitarello.github.io/post/ldpred2/</link>
+      <link>bbitarello.github.io/post/ldpred2/</link>
       <pubDate>Thu, 02 Jul 2020 17:27:31 -0400</pubDate>
-      <guid>https://bbitarello.github.io/post/ldpred2/</guid>
+      <guid>bbitarello.github.io/post/ldpred2/</guid>
       <description>&lt;p&gt;Today we discussed the new version of LDpred: LDpred2 (
 &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.28.066720v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint here&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the 

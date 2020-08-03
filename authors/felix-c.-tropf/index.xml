@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Felix C. Tropf | Bárbara Bitarello</title>
-    <link>https://bbitarello.github.io/authors/felix-c.-tropf/</link>
-      <atom:link href="https://bbitarello.github.io/authors/felix-c.-tropf/index.xml" rel="self" type="application/rss+xml" />
+    <link>bbitarello.github.io/authors/felix-c.-tropf/</link>
+      <atom:link href="bbitarello.github.io/authors/felix-c.-tropf/index.xml" rel="self" type="application/rss+xml" />
     <description>Felix C. Tropf</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Felix C. Tropf</title>
-      <link>https://bbitarello.github.io/authors/felix-c.-tropf/</link>
+      <link>bbitarello.github.io/authors/felix-c.-tropf/</link>
     </image>
     
     <item>
       <title>Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus</title>
-      <link>https://bbitarello.github.io/publication/mathieson-2020/</link>
+      <link>bbitarello.github.io/publication/mathieson-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://bbitarello.github.io/publication/mathieson-2020/</guid>
+      <guid>bbitarello.github.io/publication/mathieson-2020/</guid>
       <description></description>
     </item>
     

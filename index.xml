@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bárbara Bitarello</title>
-    <link>https://bbitarello.github.io/</link>
-      <atom:link href="https://bbitarello.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>bbitarello.github.io/</link>
+      <atom:link href="bbitarello.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Bárbara Bitarello</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Bárbara Bitarello</title>
-      <link>https://bbitarello.github.io/</link>
+      <link>bbitarello.github.io/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://bbitarello.github.io/courses/example/example1/</link>
+      <link>bbitarello.github.io/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://bbitarello.github.io/courses/example/example1/</guid>
+      <guid>bbitarello.github.io/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://bbitarello.github.io/courses/example/example2/</link>
+      <link>bbitarello.github.io/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://bbitarello.github.io/courses/example/example2/</guid>
+      <guid>bbitarello.github.io/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>How The Lion King turned me into a scientist</title>
-      <link>https://bbitarello.github.io/post/how-lion-king/</link>
+      <link>bbitarello.github.io/post/how-lion-king/</link>
       <pubDate>Sat, 01 Aug 2020 14:29:47 -0400</pubDate>
-      <guid>https://bbitarello.github.io/post/how-lion-king/</guid>
+      <guid>bbitarello.github.io/post/how-lion-king/</guid>
       <description>&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://medium.com/@barbara_dutty/how-the-lion-king-turned-me-into-a-scientist-6c9df108ec73&#34;&gt;How &#34;The Lion King&#34; turned me into a scientist&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Recently, my therapist asked me to do some homework. She asked me to reflect on the question &#34;what did I want to be when I grew up?&#34; looking as far back into the past as I could remember. A few...&lt;/p&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;
 </description>
@@ -66,9 +66,9 @@
     
     <item>
       <title>GnomAD API Query Tool</title>
-      <link>https://bbitarello.github.io/post/gnomad-api-query/</link>
+      <link>bbitarello.github.io/post/gnomad-api-query/</link>
       <pubDate>Tue, 21 Jul 2020 19:09:57 -0400</pubDate>
-      <guid>https://bbitarello.github.io/post/gnomad-api-query/</guid>
+      <guid>bbitarello.github.io/post/gnomad-api-query/</guid>
       <description>&lt;p&gt;Tl; dr, I love to tell a good story. If you don&amp;rsquo;t wanna read that, no worries. Just 
 &lt;a href=&#34;#a-brief-tutorial&#34;&gt;skip ahead&lt;/a&gt; or get 
 &lt;a href=&#34;https://github.com/crankysparrow/computationalbio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;straight to business&lt;/a&gt;!&lt;/p&gt;
@@ -114,9 +114,9 @@
     
     <item>
       <title>Polygenic Risk Score performance</title>
-      <link>https://bbitarello.github.io/project/polygenic/</link>
+      <link>bbitarello.github.io/project/polygenic/</link>
       <pubDate>Sat, 04 Jul 2020 14:18:14 -0400</pubDate>
-      <guid>https://bbitarello.github.io/project/polygenic/</guid>
+      <guid>bbitarello.github.io/project/polygenic/</guid>
       <description>&lt;p&gt;Polygenic risk scores (PRS) summarise the genetic information spread across several genetic variants into one single number. This number can be use to predict an individual&amp;rsquo;s phenotype or - more realistically - to place an individual in risk groups according to their PRS.&lt;/p&gt;
 &lt;p&gt;Many different steps are involved in calculating a PRS that is meaningful. For instance, the quality of the summary statistics is paramount. The choice of which variants to include in the PRS is also far from trivial and can involve simple &lt;em&gt;ad hoc&lt;/em&gt; approaches (such as C+T) or model-based approaches such as LDpred and LDpred2. Finally, there are the issues of validation and overfitting in the validation set, as well as the even more complicated issue of transferability of polygenic risk scores across ancestries. This project touches upon all of these issues, but particularly on the latter.&lt;/p&gt;
 &lt;p&gt;Please see my talks, presentations, and papers/preprints for more information.&lt;/p&gt;
@@ -126,9 +126,9 @@
     
     <item>
       <title>LDpred2: Better, Faster, Stronger</title>
-      <link>https://bbitarello.github.io/post/ldpred2/</link>
+      <link>bbitarello.github.io/post/ldpred2/</link>
       <pubDate>Thu, 02 Jul 2020 17:27:31 -0400</pubDate>
-      <guid>https://bbitarello.github.io/post/ldpred2/</guid>
+      <guid>bbitarello.github.io/post/ldpred2/</guid>
       <description>&lt;p&gt;Today we discussed the new version of LDpred: LDpred2 (
 &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.28.066720v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint here&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the 
@@ -163,9 +163,9 @@
     
     <item>
       <title>LDpred2: Faster, Better, Stronger</title>
-      <link>https://bbitarello.github.io/slides/my-first-slide/</link>
+      <link>bbitarello.github.io/slides/my-first-slide/</link>
       <pubDate>Thu, 02 Jul 2020 17:04:29 -0400</pubDate>
-      <guid>https://bbitarello.github.io/slides/my-first-slide/</guid>
+      <guid>bbitarello.github.io/slides/my-first-slide/</guid>
       <description>&lt;p&gt;Here is 
 &lt;a href=&#34;https://github.com/bbitarello/LDpred2-Presentation/blob/master/LDpred2_Journal_Club%20%283%29.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a slide presentation&lt;/a&gt; for discussing the 
 &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.28.066720v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LDpred2 preprint&lt;/a&gt;. Use freely but please give me attribution by referencing my website and my github. Thank you.&lt;/p&gt;
@@ -174,129 +174,129 @@
     
     <item>
       <title>Low transferability of height polygenic risk scores in admixed ancestry populations</title>
-      <link>https://bbitarello.github.io/talk/low/</link>
+      <link>bbitarello.github.io/talk/low/</link>
       <pubDate>Fri, 17 Jan 2020 12:00:00 -1220</pubDate>
-      <guid>https://bbitarello.github.io/talk/low/</guid>
+      <guid>bbitarello.github.io/talk/low/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus</title>
-      <link>https://bbitarello.github.io/publication/mathieson-2020/</link>
+      <link>bbitarello.github.io/publication/mathieson-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://bbitarello.github.io/publication/mathieson-2020/</guid>
+      <guid>bbitarello.github.io/publication/mathieson-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polygenic scores for height in admixed populations</title>
-      <link>https://bbitarello.github.io/publication/bitarello-2020/</link>
+      <link>bbitarello.github.io/publication/bitarello-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://bbitarello.github.io/publication/bitarello-2020/</guid>
+      <guid>bbitarello.github.io/publication/bitarello-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary and functional impact of common polymorphic inversions in the human genome</title>
-      <link>https://bbitarello.github.io/publication/carla-giner-delgado-sergi-villatoro-jon-lerga-jaso-magdalena-gaya-vidal-meritxell-oliva-david-castellano-lorena-pantano-barbara-bitarello-david-izquierdo-isaac-noguera-inigo-olalde-alejandra-delprat-antoine-blancher-carles-lalueza-fox-tonu-e-2018/</link>
+      <link>bbitarello.github.io/publication/carla-giner-delgado-sergi-villatoro-jon-lerga-jaso-magdalena-gaya-vidal-meritxell-oliva-david-castellano-lorena-pantano-barbara-bitarello-david-izquierdo-isaac-noguera-inigo-olalde-alejandra-delprat-antoine-blancher-carles-lalueza-fox-tonu-e-2018/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 -0500</pubDate>
-      <guid>https://bbitarello.github.io/publication/carla-giner-delgado-sergi-villatoro-jon-lerga-jaso-magdalena-gaya-vidal-meritxell-oliva-david-castellano-lorena-pantano-barbara-bitarello-david-izquierdo-isaac-noguera-inigo-olalde-alejandra-delprat-antoine-blancher-carles-lalueza-fox-tonu-e-2018/</guid>
+      <guid>bbitarello.github.io/publication/carla-giner-delgado-sergi-villatoro-jon-lerga-jaso-magdalena-gaya-vidal-meritxell-oliva-david-castellano-lorena-pantano-barbara-bitarello-david-izquierdo-isaac-noguera-inigo-olalde-alejandra-delprat-antoine-blancher-carles-lalueza-fox-tonu-e-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating the lack of transferability of polygenic risk scores in cohorts with admixed ancestry</title>
-      <link>https://bbitarello.github.io/talk/polygenic_2/</link>
+      <link>bbitarello.github.io/talk/polygenic_2/</link>
       <pubDate>Fri, 18 Oct 2019 00:00:00 -0400</pubDate>
-      <guid>https://bbitarello.github.io/talk/polygenic_2/</guid>
+      <guid>bbitarello.github.io/talk/polygenic_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>https://bbitarello.github.io/resume/</link>
+      <link>bbitarello.github.io/resume/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://bbitarello.github.io/resume/</guid>
+      <guid>bbitarello.github.io/resume/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polygenic risk scores perform poorly across populations</title>
-      <link>https://bbitarello.github.io/talk/polygenic/</link>
+      <link>bbitarello.github.io/talk/polygenic/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 -0400</pubDate>
-      <guid>https://bbitarello.github.io/talk/polygenic/</guid>
+      <guid>bbitarello.github.io/talk/polygenic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Signatures of long-term balancing selection in human genomes</title>
-      <link>https://bbitarello.github.io/publication/meyer-2018/</link>
+      <link>bbitarello.github.io/publication/meyer-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
-      <guid>https://bbitarello.github.io/publication/meyer-2018/</guid>
+      <guid>bbitarello.github.io/publication/meyer-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A genomic perspective on HLA evolution</title>
-      <link>https://bbitarello.github.io/publication/meyer-2017/</link>
+      <link>bbitarello.github.io/publication/meyer-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      <guid>https://bbitarello.github.io/publication/meyer-2017/</guid>
+      <guid>bbitarello.github.io/publication/meyer-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heterogeneity of dN/dS Ratios at the Classical HLA Class I Genes over Divergence Time and Across the Allelic Phylogeny</title>
-      <link>https://bbitarello.github.io/publication/bitarello-2016/</link>
+      <link>bbitarello.github.io/publication/bitarello-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
-      <guid>https://bbitarello.github.io/publication/bitarello-2016/</guid>
+      <guid>bbitarello.github.io/publication/bitarello-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HLA supertype variation across populations: new insights into the role of natural selection in the evolution of HLA-A and HLA-B polymorphisms</title>
-      <link>https://bbitarello.github.io/publication/dos-santos-francisco-2015/</link>
+      <link>bbitarello.github.io/publication/dos-santos-francisco-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
-      <guid>https://bbitarello.github.io/publication/dos-santos-francisco-2015/</guid>
+      <guid>bbitarello.github.io/publication/dos-santos-francisco-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kiwi genome provides insights into evolution of a nocturnal lifestyle</title>
-      <link>https://bbitarello.github.io/publication/le-duc-2015/</link>
+      <link>bbitarello.github.io/publication/le-duc-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
-      <guid>https://bbitarello.github.io/publication/le-duc-2015/</guid>
+      <guid>bbitarello.github.io/publication/le-duc-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping bias overestimates reference allele frequencies at the HLA genes in the 1000 genomes project phase I data</title>
-      <link>https://bbitarello.github.io/publication/brandt-2015/</link>
+      <link>bbitarello.github.io/publication/brandt-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
-      <guid>https://bbitarello.github.io/publication/brandt-2015/</guid>
+      <guid>bbitarello.github.io/publication/brandt-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intercruzmento de humanos modernos e neandertais: novas perspectivas a luz da genética</title>
-      <link>https://bbitarello.github.io/publication/bitarello-2011-a/</link>
+      <link>bbitarello.github.io/publication/bitarello-2011-a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
-      <guid>https://bbitarello.github.io/publication/bitarello-2011-a/</guid>
+      <guid>bbitarello.github.io/publication/bitarello-2011-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of polymorphic microsatellite markers for the human botfly, Dermatobia hominis (Diptera: Oestridae)</title>
-      <link>https://bbitarello.github.io/publication/bitarello-2009/</link>
+      <link>bbitarello.github.io/publication/bitarello-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 -0500</pubDate>
-      <guid>https://bbitarello.github.io/publication/bitarello-2009/</guid>
+      <guid>bbitarello.github.io/publication/bitarello-2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PROJETO GENOGRÁFICO E AS IMPLICAÇÕES DA POPULARIZAÇÃO</title>
-      <link>https://bbitarello.github.io/publication/project-2009/</link>
+      <link>bbitarello.github.io/publication/project-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 -0500</pubDate>
-      <guid>https://bbitarello.github.io/publication/project-2009/</guid>
+      <guid>bbitarello.github.io/publication/project-2009/</guid>
       <description></description>
     </item>
     
