@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HLA (human leukocyte antigen) | Bárbara Bitarello</title>
-    <link>bbitarello.github.io/tags/hla-human-leukocyte-antigen/</link>
-      <atom:link href="bbitarello.github.io/tags/hla-human-leukocyte-antigen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bbitarello.github.io/tags/hla-human-leukocyte-antigen/</link>
+      <atom:link href="https://bbitarello.github.io/tags/hla-human-leukocyte-antigen/index.xml" rel="self" type="application/rss+xml" />
     <description>HLA (human leukocyte antigen)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     <image>
-      <url>/bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>HLA (human leukocyte antigen)</title>
-      <link>bbitarello.github.io/tags/hla-human-leukocyte-antigen/</link>
+      <link>https://bbitarello.github.io/tags/hla-human-leukocyte-antigen/</link>
     </image>
     
     <item>
       <title>A genomic perspective on HLA evolution</title>
-      <link>bbitarello.github.io/publication/meyer-2017/</link>
+      <link>https://bbitarello.github.io/publication/meyer-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      <guid>bbitarello.github.io/publication/meyer-2017/</guid>
+      <guid>https://bbitarello.github.io/publication/meyer-2017/</guid>
       <description></description>
     </item>
     
