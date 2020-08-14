@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>human genetics | Bárbara Bitarello</title>
+    <link>https://bbitarello.github.io/tags/human-genetics/</link>
+      <atom:link href="https://bbitarello.github.io/tags/human-genetics/index.xml" rel="self" type="application/rss+xml" />
+    <description>human genetics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Fri, 14 Aug 2020 12:18:03 -0400</lastBuildDate>
+    <image>
+      <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>human genetics</title>
+      <link>https://bbitarello.github.io/tags/human-genetics/</link>
+    </image>
+    
+    <item>
+      <title>Balancing Selection: methods, signatures, mechanisms</title>
+      <link>https://bbitarello.github.io/project/balancing-selection/</link>
+      <pubDate>Fri, 14 Aug 2020 12:18:03 -0400</pubDate>
+      <guid>https://bbitarello.github.io/project/balancing-selection/</guid>
+      <description>&lt;p&gt;Balancing selection is an umbrella turn for several evolutionary mechanisms through which adaptive variation is maintained in populations. While it is often understood as simply overdominance or heterozygote advantage, it encompasses not only that mechanism, but also antagonistic selection, fluctuating selection in time/space, negative frequency dependent selection, to name a few.&lt;/p&gt;
+&lt;p&gt;I first started working with balancing selection in my Masters, where I focused on HLA (human MHC) genes and their evolution. I showed that those genes in humans 
+&lt;a href=&#34;https://bbitarello.github.io/publication/bitarello-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;harbour signtures os divergent allele advantage&lt;/a&gt; (a particular form of overdominance). I then became more interested in balancing selection at large, and focused on understanding its impact in human evolutionary history in my PhD. Co-supervised by 
+&lt;a href=&#34;https://wp.cs.ucl.ac.uk/evol-genome/people/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aida Andrés&lt;/a&gt; and 
+&lt;a href=&#34;https://genevol.ib.usp.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diogo Meyer&lt;/a&gt;, and with several collaborators, we created a 
+&lt;a href=&#34;https://bbitarello.github.io/publication/meyer-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new method tailored to detect signatures of long-term balancing selection&lt;/a&gt;, which has since been implemented by researchers studying humans (e.g., 
+&lt;a href=&#34;https://bbitarello.github.io/publication/carla-giner-delgado-sergi-villatoro-jon-lerga-jaso-magdalena-gaya-vidal-meritxell-oliva-david-castellano-lorena-pantano-barbara-bitarello-david-izquierdo-isaac-noguera-inigo-olalde-alejandra-delprat-antoine-blancher-carles-lalueza-fox-tonu-e-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, and 
+&lt;a href=&#34;https://bbitarello.github.io/publication/mathieson-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;) and non-human organisms (e.g., a 
+&lt;a href=&#34;https://www.nature.com/articles/s41559-020-1201-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;copepod&lt;/a&gt;), and 
+&lt;a href=&#34;https://academic.oup.com/mbe/article/36/1/177/5150441&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;at least one  modification of our original method has been developed&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In collaboration with the Meyer Lab, 
+&lt;a href=&#34;https://bbitarello.github.io/publication/meyer-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I&amp;rsquo;ve written a review on the genomics of HLA evolution&lt;/a&gt;, where balancing selection is a key factor.&lt;/p&gt;
+&lt;p&gt;You can find the GitHub repo with the code for the NCD-statistics 
+&lt;a href=&#34;https://github.com/bbitarello/NCD-Statistics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is an ongoing topic of interest for me, and I am &lt;strong&gt;activley looking for guest lecturer teaching opportunities&lt;/strong&gt; and collaboration opportunities, so &lt;strong&gt;do reach out&lt;/strong&gt; if you&amp;rsquo;re interested in either of these.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
