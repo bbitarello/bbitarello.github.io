@@ -5,12 +5,20 @@
     <link>https://bbitarello.github.io/tags/polygenic-risk-scores/</link>
       <atom:link href="https://bbitarello.github.io/tags/polygenic-risk-scores/index.xml" rel="self" type="application/rss+xml" />
     <description>polygenic risk scores</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Sat, 04 Jul 2020 14:18:14 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Mon, 17 Aug 2020 17:05:52 -0400</lastBuildDate>
     <image>
       <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>polygenic risk scores</title>
       <link>https://bbitarello.github.io/tags/polygenic-risk-scores/</link>
     </image>
+    
+    <item>
+      <title>Ancestry Matters: why do polygenic risk scores remain limited to a few?</title>
+      <link>https://bbitarello.github.io/talk/ancestry-matters/</link>
+      <pubDate>Mon, 17 Aug 2020 17:05:52 -0400</pubDate>
+      <guid>https://bbitarello.github.io/talk/ancestry-matters/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What drives the reduced prediction accuracy of polygenic scores in non-European individuals?</title>
