@@ -3,6 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bbitarello.github.io/tags/admixture/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/tags/ancestry/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/tags/anthropometric-traits/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/authors/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/authors/barbara-bitarello/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/tags/height/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/tags/invited-talks/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/tags/polygenic/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/tags/polygenic-risk-score/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/tags/prediction/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/tags/prediction-accuracy/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/tags/prs/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/tags/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/talk/uc-berkeley/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/talk/ancestry-matters/</loc>
+    <lastmod>2020-08-17T16:05:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/tags/polygenic-risk-scores/</loc>
+    <lastmod>2020-08-17T16:05:52-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bbitarello.github.io/tags/balan/</loc>
     <lastmod>2020-08-14T12:18:03-04:00</lastmod>
   </url>
@@ -59,11 +139,6 @@
   
   <url>
     <loc>https://bbitarello.github.io/tags/summary-statistics/</loc>
-    <lastmod>2020-08-14T12:18:03-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bbitarello.github.io/tags/</loc>
     <lastmod>2020-08-14T12:18:03-04:00</lastmod>
   </url>
   
@@ -133,16 +208,6 @@
   </url>
   
   <url>
-    <loc>https://bbitarello.github.io/authors/</loc>
-    <lastmod>2020-07-21T19:09:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bbitarello.github.io/authors/barbara-bitarello/</loc>
-    <lastmod>2020-07-21T19:09:57-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bbitarello.github.io/tags/computational-biology/</loc>
     <lastmod>2020-07-21T19:09:57-04:00</lastmod>
   </url>
@@ -183,11 +248,6 @@
   </url>
   
   <url>
-    <loc>https://bbitarello.github.io/tags/height/</loc>
-    <lastmod>2020-07-04T14:18:14-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bbitarello.github.io/tags/ldpred/</loc>
     <lastmod>2020-07-04T14:18:14-04:00</lastmod>
   </url>
@@ -198,22 +258,7 @@
   </url>
   
   <url>
-    <loc>https://bbitarello.github.io/tags/polygenic-risk-scores/</loc>
-    <lastmod>2020-07-04T14:18:14-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bbitarello.github.io/tags/precision-medicine/</loc>
-    <lastmod>2020-07-04T14:18:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bbitarello.github.io/tags/prediction/</loc>
-    <lastmod>2020-07-04T14:18:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bbitarello.github.io/tags/prs/</loc>
     <lastmod>2020-07-04T14:18:14-04:00</lastmod>
   </url>
   
@@ -235,16 +280,6 @@
   <url>
     <loc>https://bbitarello.github.io/tags/review/</loc>
     <lastmod>2020-07-02T17:27:31-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bbitarello.github.io/tags/admixture/</loc>
-    <lastmod>2020-07-02T17:04:29-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bbitarello.github.io/tags/ancestry/</loc>
-    <lastmod>2020-07-02T17:04:29-04:00</lastmod>
   </url>
   
   <url>
@@ -503,7 +538,22 @@
   </url>
   
   <url>
+    <loc>https://bbitarello.github.io/tags/ashg/</loc>
+    <lastmod>2018-10-20T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/tags/contributed-talks/</loc>
+    <lastmod>2018-10-20T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bbitarello.github.io/talk/polygenic/</loc>
+    <lastmod>2018-10-20T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bbitarello.github.io/tags/talks/</loc>
     <lastmod>2018-10-20T00:00:00-04:00</lastmod>
   </url>
   

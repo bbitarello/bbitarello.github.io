@@ -5,12 +5,20 @@
     <link>https://bbitarello.github.io/tags/height/</link>
       <atom:link href="https://bbitarello.github.io/tags/height/index.xml" rel="self" type="application/rss+xml" />
     <description>height</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Sat, 04 Jul 2020 14:18:14 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Fri, 25 Sep 2020 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>height</title>
       <link>https://bbitarello.github.io/tags/height/</link>
     </image>
+    
+    <item>
+      <title>What drives the reduced prediction accuracy of polygenic scores in non-European individuals?</title>
+      <link>https://bbitarello.github.io/talk/uc-berkeley/</link>
+      <pubDate>Fri, 25 Sep 2020 16:00:00 +0000</pubDate>
+      <guid>https://bbitarello.github.io/talk/uc-berkeley/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What drives the reduced prediction accuracy of polygenic scores in non-European individuals?</title>
@@ -50,6 +58,14 @@
       <link>https://bbitarello.github.io/publication/bitarello-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://bbitarello.github.io/publication/bitarello-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polygenic risk scores perform poorly across populations</title>
+      <link>https://bbitarello.github.io/talk/polygenic/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 -0400</pubDate>
+      <guid>https://bbitarello.github.io/talk/polygenic/</guid>
       <description></description>
     </item>
     

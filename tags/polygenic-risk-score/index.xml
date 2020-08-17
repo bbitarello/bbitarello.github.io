@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>polygenic risk score | Bárbara Bitarello</title>
+    <link>https://bbitarello.github.io/tags/polygenic-risk-score/</link>
+      <atom:link href="https://bbitarello.github.io/tags/polygenic-risk-score/index.xml" rel="self" type="application/rss+xml" />
+    <description>polygenic risk score</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Fri, 25 Sep 2020 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>polygenic risk score</title>
+      <link>https://bbitarello.github.io/tags/polygenic-risk-score/</link>
+    </image>
+    
+    <item>
+      <title>What drives the reduced prediction accuracy of polygenic scores in non-European individuals?</title>
+      <link>https://bbitarello.github.io/talk/uc-berkeley/</link>
+      <pubDate>Fri, 25 Sep 2020 16:00:00 +0000</pubDate>
+      <guid>https://bbitarello.github.io/talk/uc-berkeley/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

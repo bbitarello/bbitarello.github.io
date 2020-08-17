@@ -5,12 +5,28 @@
     <link>https://bbitarello.github.io/tags/ancestry/</link>
       <atom:link href="https://bbitarello.github.io/tags/ancestry/index.xml" rel="self" type="application/rss+xml" />
     <description>ancestry</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Thu, 02 Jul 2020 17:04:29 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Fri, 25 Sep 2020 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>ancestry</title>
       <link>https://bbitarello.github.io/tags/ancestry/</link>
     </image>
+    
+    <item>
+      <title>What drives the reduced prediction accuracy of polygenic scores in non-European individuals?</title>
+      <link>https://bbitarello.github.io/talk/uc-berkeley/</link>
+      <pubDate>Fri, 25 Sep 2020 16:00:00 +0000</pubDate>
+      <guid>https://bbitarello.github.io/talk/uc-berkeley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ancestry Matters: why do polygenic risk scores remain limited to a few?</title>
+      <link>https://bbitarello.github.io/talk/ancestry-matters/</link>
+      <pubDate>Mon, 17 Aug 2020 16:05:52 -0400</pubDate>
+      <guid>https://bbitarello.github.io/talk/ancestry-matters/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Loss of predictive power of polygenic risk scores in admixed populations</title>
