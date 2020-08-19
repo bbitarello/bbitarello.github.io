@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Ancestry Matters: why do polygenic risk scores remain limited to a few?</title>
-      <link>https://bbitarello.github.io/talk/ancestry-matters/</link>
-      <pubDate>Mon, 17 Aug 2020 17:05:52 -0400</pubDate>
-      <guid>https://bbitarello.github.io/talk/ancestry-matters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GnomAD API Query Tool</title>
       <link>https://bbitarello.github.io/post/gnomad-api-query/</link>
       <pubDate>Tue, 21 Jul 2020 19:09:57 -0400</pubDate>
@@ -178,6 +170,14 @@
       <link>https://bbitarello.github.io/publication/bitarello-2011-a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
       <guid>https://bbitarello.github.io/publication/bitarello-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ancestry Matters: why do polygenic risk scores remain limited to a few?</title>
+      <link>https://bbitarello.github.io/talk/ancestry-matters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bbitarello.github.io/talk/ancestry-matters/</guid>
       <description></description>
     </item>
     
