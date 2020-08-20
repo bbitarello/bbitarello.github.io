@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiny | Bárbara Bitarello</title>
+    <link>https://bbitarello.github.io/tags/shiny/</link>
+      <atom:link href="https://bbitarello.github.io/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shiny</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Thu, 20 Aug 2020 14:10:30 -0400</lastBuildDate>
+    <image>
+      <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shiny</title>
+      <link>https://bbitarello.github.io/tags/shiny/</link>
+    </image>
+    
+    <item>
+      <title>Creative Coding</title>
+      <link>https://bbitarello.github.io/project/creative-coding/</link>
+      <pubDate>Thu, 20 Aug 2020 14:10:30 -0400</pubDate>
+      <guid>https://bbitarello.github.io/project/creative-coding/</guid>
+      <description>&lt;p&gt;Recently, a friend and I decided to collaborate on some creative coding projects. But of us stare at computers most of the day (
+&lt;a href=&#34;https://laura.rochaprado.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this is my friend&lt;/a&gt;). These projects are not work-related, but they do have the goal of helping us learn some coding tool we&amp;rsquo;re trying to master. For now, everything is very incipient but I will post more soon, as things develop. Stay tuned.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
