@@ -30,11 +30,10 @@
   
     
   
-  <meta name="description" content="Today we discussed the new version of LDpred: LDpred2 ( preprint here).
-The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the original publication.">
+  <meta name="description" content="This week in Journal Club at the Mathieson Lab we discussed the recently published paper by Wang et. al (2020) on the theoretical aspects of the transferability of polygenic risk scores across ancestries.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://bbitarello.github.io/post/ldpred2/">
+  <link rel="alternate" hreflang="en-us" href="https://bbitarello.github.io/post/wang/">
 
   
 
@@ -272,7 +271,7 @@ The preprint is short and technical and does not go through the trouble of expla
   <link rel="icon" type="image/png" href="../../images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="../../images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://bbitarello.github.io/post/ldpred2/">
+  <link rel="canonical" href="https://bbitarello.github.io/post/wang/">
 
   
   
@@ -288,16 +287,15 @@ The preprint is short and technical and does not go through the trouble of expla
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Bárbara Bitarello">
-  <meta property="og:url" content="https://bbitarello.github.io/post/ldpred2/">
-  <meta property="og:title" content="LDpred2: Better, Faster, Stronger | Bárbara Bitarello">
-  <meta property="og:description" content="Today we discussed the new version of LDpred: LDpred2 ( preprint here).
-The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the original publication."><meta property="og:image" content="https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://bbitarello.github.io/post/wang/">
+  <meta property="og:title" content="Theoretical and empirical quantification of the accuracy of polygenic scores in ancestry divergent populations | Bárbara Bitarello">
+  <meta property="og:description" content="This week in Journal Club at the Mathieson Lab we discussed the recently published paper by Wang et. al (2020) on the theoretical aspects of the transferability of polygenic risk scores across ancestries."><meta property="og:image" content="https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-07-02T17:27:31-04:00">
+      <meta property="article:published_time" content="2020-09-06T13:26:00-04:00">
     
-    <meta property="article:modified_time" content="2020-07-02T17:27:31-04:00">
+    <meta property="article:modified_time" content="2020-09-06T13:26:00-04:00">
   
 
   
@@ -321,12 +319,12 @@ The preprint is short and technical and does not go through the trouble of expla
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://bbitarello.github.io/post/ldpred2/"
+    "@id": "https://bbitarello.github.io/post/wang/"
   },
-  "headline": "LDpred2: Better, Faster, Stronger",
+  "headline": "Theoretical and empirical quantification of the accuracy of polygenic scores in ancestry divergent populations",
   
-  "datePublished": "2020-07-02T17:27:31-04:00",
-  "dateModified": "2020-07-02T17:27:31-04:00",
+  "datePublished": "2020-09-06T13:26:00-04:00",
+  "dateModified": "2020-09-06T13:26:00-04:00",
   
   "author": {
     "@type": "Person",
@@ -341,7 +339,7 @@ The preprint is short and technical and does not go through the trouble of expla
       "url": "https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Today we discussed the new version of LDpred: LDpred2 ( preprint here).\nThe preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the original publication."
+  "description": "This week in Journal Club at the Mathieson Lab we discussed the recently published paper by Wang et. al (2020) on the theoretical aspects of the transferability of polygenic risk scores across ancestries."
 }
 </script>
 
@@ -359,7 +357,7 @@ The preprint is short and technical and does not go through the trouble of expla
 
 
 
-  <title>LDpred2: Better, Faster, Stronger | Bárbara Bitarello</title>
+  <title>Theoretical and empirical quantification of the accuracy of polygenic scores in ancestry divergent populations | Bárbara Bitarello</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
@@ -649,10 +647,10 @@ The preprint is short and technical and does not go through the trouble of expla
   
   
 <div class="article-container pt-3">
-  <h1>LDpred2: Better, Faster, Stronger</h1>
+  <h1>Theoretical and empirical quantification of the accuracy of polygenic scores in ancestry divergent populations</h1>
 
   
-  <p class="page-subtitle">Summarizing the new LDpred2 method</p>
+  <p class="page-subtitle">A discussion of the paper by  Wang et al. 2020</p>
   
 
   
@@ -663,16 +661,6 @@ The preprint is short and technical and does not go through the trouble of expla
 
   
   
-  
-  
-  <div>
-    
-
-  
-  <span >Bárbara Bitarello</span>
-  </div>
-  
-  
 
   
   <span class="article-date">
@@ -680,7 +668,7 @@ The preprint is short and technical and does not go through the trouble of expla
     
       
     
-    Jul 2, 2020
+    Sep 6, 2020
   </span>
   
 
@@ -689,7 +677,7 @@ The preprint is short and technical and does not go through the trouble of expla
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    2 min read
+    3 min read
   </span>
   
 
@@ -698,10 +686,6 @@ The preprint is short and technical and does not go through the trouble of expla
   
 
   
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="../../categories/post/">post</a></span>
   
 
 </div>
@@ -729,35 +713,14 @@ The preprint is short and technical and does not go through the trouble of expla
   <div class="article-container">
 
     <div class="article-style">
-      <p>Today we discussed the new version of LDpred: LDpred2 (
-<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066720v1" target="_blank" rel="noopener">preprint here</a>).</p>
-<p>The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the 
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4596916/" target="_blank" rel="noopener">original publication</a>. Rather, this seems to be a &lsquo;Bioinformatics&rsquo; style preprint that goes straight to the novelties:</p>
-<ol>
-<li>
-<p>LDpred2 runs in R instead of in Python like its predecessor;</p>
-</li>
-<li>
-<p>LDpred2 has four implementations (LDpred2-inf, LDpred2, LDpred2-sparse, LDpred2-auto), compared to two from its predecessor (LDpred-inf, LDpred);</p>
-</li>
-<li>
-<p>LDpred2-auto estimates both <em>p</em> (proportion of causal variants) and <em>h<sup>2</sup></em> (SNP heritability) from the test data, without requiring a validadation set for hyperparameter optimization (this option is great, provided that appropriate QC is performed in the summary statistics);</p>
-</li>
-<li>
-<p>LDpred2-sparse allows some some of the causal variants to actually have effect sizes of zero;</p>
-</li>
-<li>
-<p>LDpred2 parallelizes both the grid of hyperparameters as well as the chromosomes (run in parallel) via C++, which makes it faster;</p>
-</li>
-<li>
-<p>By changing how the LD radius is defined in the weight estimation (Gibbs sampler) step, it performs much better in regions of long-range LD such as the MHC region. Instead of defining a SNP window of a<em>M</em>\3000 in each direction (<em>M</em> is the number of causal variants, roughly 1Mb), it defines the window in terms of genetic distances and the default value is 3 cM;</p>
-</li>
-</ol>
-<p>Personally, I have spent quite some time figuring out the error messages that LDpred provides, as well as studying the models that it implements. Also, I am a big R fan, so it would be a shame to see all my efforts with LDpred go to waste: I am definitely switching to LDpred2, which runs 100% in R. The first author has kindly provided 
-<a href="https://privefl.github.io/bigsnpr/articles/LDpred2.html" target="_blank" rel="noopener">a tutorial</a>, which I see as a big bonus.</p>
-<h2 id="heading"></h2>
-<p><strong>TL;dr:</strong> If you are already using LDpred1 (i.e, you have spent time figuring out how it runs, as well as the underlying models), it is definitely worth switching to LDpred2. If you are just beginning your exploration of Polygenic Risk Scores, a less overwhelming approach would be to start with C+T (clumping and thresholding), which is very simple, fast, effective, and requires nothing too fancy. If you are already using another fancy approach such as lassosum, LDpred2 does not seem to do better than that, so I would stick with what is working for you.</p>
-<p>I will write something about my experience running LDpred2 in the coming weeks.</p>
+      <p>This week in Journal Club at the Mathieson Lab we discussed the recently published paper by 
+<a href="http://www.nature.com/articles/s41467-020-17719-y" target="_blank" rel="noopener">Wang et. al (2020)</a> on the theoretical aspects of the transferability of polygenic risk scores across ancestries.</p>
+<p>This work provides three predictors for the relative accuracy of a polygenic risk scores (i.e., the accuracy in a test population with different ancestry than that from which the summary statistics came from,divided by the accuracy in an independent test sample of same ancestry as the original GWAS). The three different predictors differ in their assumptions. All of them assume that the causal variants are the same across populations and that their effect sizes are 100% correlated. Predictor 1 requires that one knows what the causal variants are, as well as their degree of linkage disequilibrium with the genome-wide significant SNPs. In practice that is rarelly if ever known. Predictor 2 approximates this by doing a heuristic approach to select candidate causal variants for each GWS SNP. Finally, Predictor 3 assumes (rather naively as the authors state) that the GWS SNPs <em>are</em> the causal SNPs. In summary, their three predictors capture the impact of LD and allelic frequencies on PRS performance.</p>
+<p>Next, they simulate genotypes based on the UK Biobank data, exploring different heritability values and number of causal variants. With this, they explored different genetic architectures. They used the 1000 Genomes to input variants in the UKBB data, which they divived into EUR (European), AFR (African), EAS (East Asian), and SAS (South Asian) based on the proximity of each individual to the principal components generated by 1000 Genomes populations. They assingned effect sizes based on a normal distirbution with mean 0 and variance 1 minus the heritability.</p>
+<p>They evaluated the relative accuracies (RA) for Predictors 1, 2 and 3. They compared those to the observed RA in the simulated genotypes. Generally, Predictors 1 and 2 were pretty close to the simulation-based observed RA, while Predictorr 3 tends to give overestimates. They also verified that using a different panel for imputation, different clumping thresholds and heritabilities and number of causal variants did not strongly affect RA, which decreases monotonically with distance from Europe, as previously shown.</p>
+<p>Next, they used real sumamry statistics to construct PRSs for 8 traits, and tested the performance of these three predictors. Their main fidnings are that: 1) RA is higher with genetic proximity to Europe and 2) the loss of accuracy (LOA=1-RA) attributable to LD and allelic frequencies is highest in Africans. That is, for more genetically distant populations, differences in allelic frequencies play a more substantial role, while for more closely related populations other factors (not investigated) such as differences in effect sizes, gene by environment interactions, etc, presumably have a greater realtive improtantce. They authors say that they provide upper bounds for the proportion of LOA due to LD and allelic frequencies, which is useful as new studies are trying to understand and improve the transferability of PRS across ancestries.</p>
+<p>My slides are available 
+<a href="https://bbitarello.github.io/My_Presentations/journal_club_Sep_2020/#1" target="_blank" rel="noopener">here</a>.</p>
 
     </div>
 
@@ -770,9 +733,13 @@ The preprint is short and technical and does not go through the trouble of expla
 
 <div class="article-tags">
   
+  <a class="badge badge-light" href="../../tags/prediction/">prediction</a>
+  
   <a class="badge badge-light" href="../../tags/prs/">PRS</a>
   
   <a class="badge badge-light" href="../../tags/c&#43;t/">C&#43;T</a>
+  
+  <a class="badge badge-light" href="../../tags/journal-club/">journal club</a>
   
   <a class="badge badge-light" href="../../tags/polygenic-risk-scores/">polygenic risk scores</a>
   
@@ -780,13 +747,9 @@ The preprint is short and technical and does not go through the trouble of expla
   
   <a class="badge badge-light" href="../../tags/precision-medicine/">precision medicine</a>
   
-  <a class="badge badge-light" href="../../tags/software/">software</a>
+  <a class="badge badge-light" href="../../tags/simulations/">simulations</a>
   
-  <a class="badge badge-light" href="../../tags/ldpred/">ldpred</a>
-  
-  <a class="badge badge-light" href="../../tags/ldpred2/">ldpred2</a>
-  
-  <a class="badge badge-light" href="../../tags/review/">review</a>
+  <a class="badge badge-light" href="../../tags/theoretical/">theoretical</a>
   
 </div>
 
@@ -803,7 +766,7 @@ The preprint is short and technical and does not go through the trouble of expla
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://bbitarello.github.io/post/ldpred2/&amp;text=LDpred2:%20Better,%20Faster,%20Stronger" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://bbitarello.github.io/post/wang/&amp;text=Theoretical%20and%20empirical%20quantification%20of%20the%20accuracy%20of%20polygenic%20scores%20in%20ancestry%20divergent%20populations" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -816,7 +779,7 @@ The preprint is short and technical and does not go through the trouble of expla
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://bbitarello.github.io/post/ldpred2/&amp;t=LDpred2:%20Better,%20Faster,%20Stronger" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://bbitarello.github.io/post/wang/&amp;t=Theoretical%20and%20empirical%20quantification%20of%20the%20accuracy%20of%20polygenic%20scores%20in%20ancestry%20divergent%20populations" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -829,7 +792,7 @@ The preprint is short and technical and does not go through the trouble of expla
       
       
       <li>
-        <a href="mailto:?subject=LDpred2:%20Better,%20Faster,%20Stronger&amp;body=https://bbitarello.github.io/post/ldpred2/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Theoretical%20and%20empirical%20quantification%20of%20the%20accuracy%20of%20polygenic%20scores%20in%20ancestry%20divergent%20populations&amp;body=https://bbitarello.github.io/post/wang/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -842,7 +805,7 @@ The preprint is short and technical and does not go through the trouble of expla
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://bbitarello.github.io/post/ldpred2/&amp;title=LDpred2:%20Better,%20Faster,%20Stronger" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://bbitarello.github.io/post/wang/&amp;title=Theoretical%20and%20empirical%20quantification%20of%20the%20accuracy%20of%20polygenic%20scores%20in%20ancestry%20divergent%20populations" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -855,7 +818,7 @@ The preprint is short and technical and does not go through the trouble of expla
       
       
       <li>
-        <a href="whatsapp://send?text=LDpred2:%20Better,%20Faster,%20Stronger%20https://bbitarello.github.io/post/ldpred2/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Theoretical%20and%20empirical%20quantification%20of%20the%20accuracy%20of%20polygenic%20scores%20in%20ancestry%20divergent%20populations%20https://bbitarello.github.io/post/wang/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -868,7 +831,7 @@ The preprint is short and technical and does not go through the trouble of expla
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://bbitarello.github.io/post/ldpred2/&amp;title=LDpred2:%20Better,%20Faster,%20Stronger" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://bbitarello.github.io/post/wang/&amp;title=Theoretical%20and%20empirical%20quantification%20of%20the%20accuracy%20of%20polygenic%20scores%20in%20ancestry%20divergent%20populations" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -888,17 +851,165 @@ The preprint is short and technical and does not go through the trouble of expla
 
 
   
-    
-    
+  
 
 
 
 
 
   
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="../../authors/admin/avatar_hu68916b0232a3a21dba3dc7d2db1aba9b_21178_270x270_fill_q90_lanczos_center.jpg" alt="Bárbara Bitarello">
+      
 
-
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://bbitarello.github.io/">Bárbara Bitarello</a></h5>
+        <h6 class="card-subtitle">Postdoctoral Researcher</h6>
+        
+        <ul class="network-icon" aria-hidden="true">
   
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:barbarabitarello@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/dudutchy" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/barbarabitarello/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=4N3s92MAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0001-7676-9367" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/bbitarello" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="http://lattes.cnpq.br/5650881560499565" target="_blank" rel="noopener">
+        <i class="ai ai-lattes"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://profiles.impactstory.org/u/0000-0001-7676-9367" target="_blank" rel="noopener">
+        <i class="ai ai-impactstory"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
 
 
 
@@ -917,15 +1028,15 @@ The preprint is short and technical and does not go through the trouble of expla
     <h3>Related</h3>
     <ul>
       
+      <li><a href="../../project/polygenic/">What drives the reduced prediction accuracy of polygenic scores in non-European individuals?</a></li>
+      
+      <li><a href="../../post/ldpred2/">LDpred2: Better, Faster, Stronger</a></li>
+      
+      <li><a href="../../publication/bitarello-2020/">Polygenic scores for height in admixed populations</a></li>
+      
       <li><a href="../../talk/low/">Low transferability of height polygenic risk scores in admixed ancestry populations</a></li>
       
-      <li><a href="../../slide/my-first-slide/my-first-slide/">LDpred2: Faster, Better, Stronger</a></li>
-      
       <li><a href="../../slide/tagc-poster/">Loss of predictive power of polygenic risk scores in admixed populations</a></li>
-      
-      <li><a href="../../talk/polygenic/">Polygenic risk scores perform poorly across populations</a></li>
-      
-      <li><a href="../../talk/ancestry-matters/">Ancestry Matters: why do polygenic risk scores remain limited to a few?</a></li>
       
     </ul>
   </div>

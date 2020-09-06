@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>precision genomics | Bárbara Bitarello</title>
-    <link>https://bbitarello.github.io/tags/precision-genomics/</link>
-      <atom:link href="https://bbitarello.github.io/tags/precision-genomics/index.xml" rel="self" type="application/rss+xml" />
-    <description>precision genomics</description>
+    <title>journal club | Bárbara Bitarello</title>
+    <link>https://bbitarello.github.io/tags/journal-club/</link>
+      <atom:link href="https://bbitarello.github.io/tags/journal-club/index.xml" rel="self" type="application/rss+xml" />
+    <description>journal club</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Sun, 06 Sep 2020 13:26:00 -0400</lastBuildDate>
     <image>
       <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>precision genomics</title>
-      <link>https://bbitarello.github.io/tags/precision-genomics/</link>
+      <title>journal club</title>
+      <link>https://bbitarello.github.io/tags/journal-club/</link>
     </image>
     
     <item>
@@ -25,43 +25,6 @@
 &lt;p&gt;Next, they used real sumamry statistics to construct PRSs for 8 traits, and tested the performance of these three predictors. Their main fidnings are that: 1) RA is higher with genetic proximity to Europe and 2) the loss of accuracy (LOA=1-RA) attributable to LD and allelic frequencies is highest in Africans. That is, for more genetically distant populations, differences in allelic frequencies play a more substantial role, while for more closely related populations other factors (not investigated) such as differences in effect sizes, gene by environment interactions, etc, presumably have a greater realtive improtantce. They authors say that they provide upper bounds for the proportion of LOA due to LD and allelic frequencies, which is useful as new studies are trying to understand and improve the transferability of PRS across ancestries.&lt;/p&gt;
 &lt;p&gt;My slides are available 
 &lt;a href=&#34;https://bbitarello.github.io/My_Presentations/journal_club_Sep_2020/#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>LDpred2: Better, Faster, Stronger</title>
-      <link>https://bbitarello.github.io/post/ldpred2/</link>
-      <pubDate>Thu, 02 Jul 2020 17:27:31 -0400</pubDate>
-      <guid>https://bbitarello.github.io/post/ldpred2/</guid>
-      <description>&lt;p&gt;Today we discussed the new version of LDpred: LDpred2 (
-&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.28.066720v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint here&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the 
-&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4596916/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;original publication&lt;/a&gt;. Rather, this seems to be a &amp;lsquo;Bioinformatics&amp;rsquo; style preprint that goes straight to the novelties:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;LDpred2 runs in R instead of in Python like its predecessor;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;LDpred2 has four implementations (LDpred2-inf, LDpred2, LDpred2-sparse, LDpred2-auto), compared to two from its predecessor (LDpred-inf, LDpred);&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;LDpred2-auto estimates both &lt;em&gt;p&lt;/em&gt; (proportion of causal variants) and &lt;em&gt;h&lt;sup&gt;2&lt;/sup&gt;&lt;/em&gt; (SNP heritability) from the test data, without requiring a validadation set for hyperparameter optimization (this option is great, provided that appropriate QC is performed in the summary statistics);&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;LDpred2-sparse allows some some of the causal variants to actually have effect sizes of zero;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;LDpred2 parallelizes both the grid of hyperparameters as well as the chromosomes (run in parallel) via C++, which makes it faster;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;By changing how the LD radius is defined in the weight estimation (Gibbs sampler) step, it performs much better in regions of long-range LD such as the MHC region. Instead of defining a SNP window of a&lt;em&gt;M&lt;/em&gt;\3000 in each direction (&lt;em&gt;M&lt;/em&gt; is the number of causal variants, roughly 1Mb), it defines the window in terms of genetic distances and the default value is 3 cM;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Personally, I have spent quite some time figuring out the error messages that LDpred provides, as well as studying the models that it implements. Also, I am a big R fan, so it would be a shame to see all my efforts with LDpred go to waste: I am definitely switching to LDpred2, which runs 100% in R. The first author has kindly provided 
-&lt;a href=&#34;https://privefl.github.io/bigsnpr/articles/LDpred2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a tutorial&lt;/a&gt;, which I see as a big bonus.&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;TL;dr:&lt;/strong&gt; If you are already using LDpred1 (i.e, you have spent time figuring out how it runs, as well as the underlying models), it is definitely worth switching to LDpred2. If you are just beginning your exploration of Polygenic Risk Scores, a less overwhelming approach would be to start with C+T (clumping and thresholding), which is very simple, fast, effective, and requires nothing too fancy. If you are already using another fancy approach such as lassosum, LDpred2 does not seem to do better than that, so I would stick with what is working for you.&lt;/p&gt;
-&lt;p&gt;I will write something about my experience running LDpred2 in the coming weeks.&lt;/p&gt;
 </description>
     </item>
     
