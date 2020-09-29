@@ -36,6 +36,18 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://bbitarello.github.io/slide/cteg/</link>
+      <pubDate>Thu, 02 Jul 2020 17:04:29 -0400</pubDate>
+      <guid>https://bbitarello.github.io/slide/cteg/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Polygenic risk scores (PRS) summarise the genetic information spread across several genetic variants into one single number. This number can be used to predict an individual’s phenotype or - more realistically - to place an individual in risk groups according to their PRS. Many different steps are involved in calculating a PRS that is meaningful. For instance, the quality of the summary statistics is paramount. The choice of which variants to include in the PRS is also far from trivial and can involve simple ad hoc approaches (such as clumping and threshholding) or model-based approaches such as LDpred. Finally, there are the issues of validation and overfitting in the validation set, as well as the even more complicated issue of transferability of polygenic risk scores across ancestries, which is the focus of this talk. A major barrier to the use of PRS in genomic medicine applications is that the majority of GWAS come from cohorts of European ancestry. The predictive power of PRS constructed from these studies is substantially lower in non-European ancestry cohorts, although the reasons for this are unclear. To address this question, we investigate the performance of PRS for height in cohorts with admixed African and European ancestry, allowing us to evaluate ancestry-related differences in PRS predictive accuracy while controlling for environment and cohort differences. We evaluate the roles of recombination and LD, allelic frequencies, genetic and phenotypic variance, and marginal effect sizes,  as well as the potential for linear combinations of ancestry-specific PRSs to improve predictions in admixed populations.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://bbitarello.github.io/My_Presentations/CTEG_seminar/#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt; are the slides.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Loss of predictive power of polygenic risk scores in admixed populations</title>
       <link>https://bbitarello.github.io/slide/tagc-poster/</link>
       <pubDate>Thu, 02 Jul 2020 17:04:29 -0400</pubDate>
