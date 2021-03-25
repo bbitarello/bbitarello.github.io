@@ -5,12 +5,23 @@
     <link>https://bbitarello.github.io/tags/outreach/</link>
       <atom:link href="https://bbitarello.github.io/tags/outreach/index.xml" rel="self" type="application/rss+xml" />
     <description>outreach</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Copyright 2019-2021 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Sat, 01 Aug 2020 14:29:47 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Copyright 2019-2021 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bbitarello.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>outreach</title>
       <link>https://bbitarello.github.io/tags/outreach/</link>
     </image>
+    
+    <item>
+      <title>Chating about polygenic risk scores</title>
+      <link>https://bbitarello.github.io/outreach/bioinformatics_chat/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://bbitarello.github.io/outreach/bioinformatics_chat/</guid>
+      <description>&lt;p&gt;Polygenic risk scores (PRS) rely on the genome-wide association studies (GWAS) to predict the phenotype based on the genotype. However, the prediction accuracy suffers when GWAS from one population are used to calculate PRS within a different population, which is a problem because the majority of the GWAS are done on cohorts of European ancestry.&lt;/p&gt;
+&lt;p&gt;In this episode, Bárbara Bitarello helps us understand how PRS work and why they don’t transfer well across populations.&lt;/p&gt;
+&lt;p&gt;Check it out &lt;a href=&#34;https://bioinformatics.chat/polygenic-risk-scores&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How The Lion King turned me into a scientist</title>
