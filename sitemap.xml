@@ -1,1038 +1,624 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://bbitarello.github.io/tags/admixture/</loc>
     <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/ancestry/</loc>
     <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/talk/ancestry-matters/</loc>
     <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/anthropometric-traits/</loc>
     <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/</loc>
     <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/barbara-bitarello/</loc>
     <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://bbitarello.github.io/</loc>
+    <lastmod>2020-12-17T17:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/invited-talks/</loc>
     <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bbitarello.github.io/tags/polygenic/</loc>
-    <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bbitarello.github.io/tags/polygenic-risk-score/</loc>
-    <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/polygenic-risk-scores/</loc>
     <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bbitarello.github.io/tags/prediction/</loc>
-    <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/prediction-accuracy/</loc>
     <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/prs/</loc>
     <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/</loc>
     <lastmod>2020-12-17T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication_types/3/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/barbara-d.-bitarello/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/c&#43;t/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/height/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/iain-mathieson/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/ldpred/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication/bitarello-2020/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://bbitarello.github.io/tags/prediction/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bbitarello.github.io/publication_types/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://bbitarello.github.io/tags/polygenic/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bbitarello.github.io/tags/polygenic-risk-score/</loc>
+    <lastmod>2020-09-25T16:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bbitarello.github.io/talk/uc-berkeley/</loc>
     <lastmod>2020-09-25T16:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/journal-club/</loc>
     <lastmod>2020-09-06T13:26:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/precision-genomics/</loc>
     <lastmod>2020-09-06T13:26:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/precision-medicine/</loc>
     <lastmod>2020-09-06T13:26:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/simulations/</loc>
     <lastmod>2020-09-06T13:26:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/theoretical/</loc>
     <lastmod>2020-09-06T13:26:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/post/wang/</loc>
     <lastmod>2020-09-06T13:26:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/creative/</loc>
     <lastmod>2020-08-20T14:10:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/project/creative-coding/</loc>
     <lastmod>2020-08-20T14:10:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/data-science/</loc>
     <lastmod>2020-08-20T14:10:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/data-visualization/</loc>
     <lastmod>2020-08-20T14:10:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/project/</loc>
     <lastmod>2020-08-20T14:10:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/r/</loc>
     <lastmod>2020-08-20T14:10:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/shiny/</loc>
     <lastmod>2020-08-20T14:10:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/balancing-selection/</loc>
     <lastmod>2020-08-14T12:18:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/project/balancing-selection/</loc>
     <lastmod>2020-08-14T12:18:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/categories/</loc>
     <lastmod>2020-08-14T12:18:03-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bbitarello.github.io/tags/evolution/</loc>
-    <lastmod>2020-08-14T12:18:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/evolutionary-biology/</loc>
     <lastmod>2020-08-14T12:18:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/human-genetics/</loc>
     <lastmod>2020-08-14T12:18:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/population-genetics/</loc>
     <lastmod>2020-08-14T12:18:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/categories/project/</loc>
     <lastmod>2020-08-14T12:18:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/sfs/</loc>
     <lastmod>2020-08-14T12:18:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/summary-statistics/</loc>
     <lastmod>2020-08-14T12:18:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/career-path/</loc>
     <lastmod>2020-08-01T14:29:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/cheetahs/</loc>
     <lastmod>2020-08-01T14:29:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/disney/</loc>
     <lastmod>2020-08-01T14:29:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/post/how-lion-king/</loc>
     <lastmod>2020-08-01T14:29:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/lion-king/</loc>
     <lastmod>2020-08-01T14:29:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/categories/medium/</loc>
     <lastmod>2020-08-01T14:29:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/outreach/</loc>
     <lastmod>2020-08-01T14:29:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bbitarello.github.io/categories/post/</loc>
-    <lastmod>2020-08-01T14:29:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/categories/posts/</loc>
     <lastmod>2020-08-01T14:29:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/science-writing/</loc>
     <lastmod>2020-08-01T14:29:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/scientific-writing/</loc>
     <lastmod>2020-08-01T14:29:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/allele-frequencies/</loc>
     <lastmod>2020-07-21T19:09:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/api/</loc>
     <lastmod>2020-07-21T19:09:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/computational-biology/</loc>
     <lastmod>2020-07-21T19:09:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/gnomad/</loc>
     <lastmod>2020-07-21T19:09:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/post/gnomad-api-query/</loc>
     <lastmod>2020-07-21T19:09:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/json/</loc>
     <lastmod>2020-07-21T19:09:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://bbitarello.github.io/categories/post/</loc>
+    <lastmod>2020-07-21T19:09:57-04:00</lastmod>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/software/</loc>
     <lastmod>2020-07-21T19:09:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/tutorial/</loc>
     <lastmod>2020-07-21T19:09:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/categories/tutorial/</loc>
     <lastmod>2020-07-21T19:09:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/ldpred2/</loc>
     <lastmod>2020-07-04T14:18:14-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/project/polygenic/</loc>
     <lastmod>2020-07-04T14:18:14-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/post/ldpred2/</loc>
     <lastmod>2020-07-02T17:27:31-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/review/</loc>
     <lastmod>2020-07-02T17:27:31-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/slide/cteg/</loc>
     <lastmod>2020-07-02T17:04:29-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/hla/</loc>
     <lastmod>2020-07-02T17:04:29-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/slide/my-first-slide/my-first-slide/</loc>
     <lastmod>2020-07-02T17:04:29-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/slide/tagc-poster/</loc>
     <lastmod>2020-07-02T17:04:29-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/mhc/</loc>
     <lastmod>2020-07-02T17:04:29-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/phylogenetics/</loc>
     <lastmod>2020-07-02T17:04:29-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/categories/slides/</loc>
     <lastmod>2020-07-02T17:04:29-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/slide/</loc>
     <lastmod>2020-07-02T17:04:29-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/slide/smbe-2010/</loc>
     <lastmod>2020-07-02T17:04:29-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/talk/low/</loc>
     <lastmod>2020-01-17T12:00:00-12:20</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/polygenic-scores/</loc>
     <lastmod>2020-01-17T12:00:00-12:20</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/adaptation/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/ahmad-vaez/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/bios-consortium/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/david-m.-brazel/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/eqtlgen-consortium/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/felix-c.-tropf/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/felix-r.-day/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication/mathieson-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/harold-snieder/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/john-r.b.-perry/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/ken-k.-ong/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/marcel-den-hoed/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/melinda-c.-mills/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/natalie-van-zuydam/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/nicola-barban/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/on-behalf-of-the-human-reproductive-behaviour-consortium/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication_types/2/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/aida-m.-andres/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/alejandra-delprat/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/antoine-blancher/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/carla-giner-delgado/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/carles-lalueza-fox/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/david-castellano/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/david-izquierdo/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication/carla-giner-delgado-sergi-villatoro-jon-lerga-jaso-magdalena-gaya-vidal-meritxell-oliva-david-castellano-lorena-pantano-barbara-bitarello-david-izquierdo-isaac-noguera-inigo-olalde-alejandra-delprat-antoine-blancher-carles-lalueza-fox-tonu-e-2018/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/isaac-noguera/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/inigo-olalde/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/jon-lerga-jaso/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/lorena-pantano/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/luca-ferretti/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/magdalena-gaya-vidal/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/mario-caceres/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/marta-puig/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/meritxell-oliva/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/paul-f.-oreilly/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/sergi-villatoro/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/tonu-esko/</loc>
     <lastmod>2019-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/talk/polygenic_2/</loc>
     <lastmod>2019-10-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bbitarello.github.io/</loc>
-    <lastmod>2019-03-17T20:39:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/resume/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/ashg/</loc>
     <lastmod>2018-10-20T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/contributed-talks/</loc>
     <lastmod>2018-10-20T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/talk/polygenic/</loc>
     <lastmod>2018-10-20T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/talks/</loc>
     <lastmod>2018-10-20T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/aida-m-andres/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/barbara-domingues-bitarello/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/cesare-de-filippo/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/diogo-meyer/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/joshua-m-schmidt/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/joao-carlos-teixeira/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/natural-selection/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/ncd/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/neutrality-tests/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/philip-kleinert/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication/meyer-2018/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/site-frequency-spectrum/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/statistical-methods/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication/meyer-2017/</loc>
     <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/b.d.-bitarello/</loc>
     <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/d.-meyer/</loc>
     <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/d.y.-c.-brandt/</loc>
     <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://bbitarello.github.io/tags/evolution/</loc>
+    <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/genomics/</loc>
     <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/hla-human-leukocyte-antigen/</loc>
     <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/k.-nunes/</loc>
     <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/mhc-major-histocompatibility-complex/</loc>
     <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/v.r.-c.-aguiar/</loc>
     <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/allelic-lineages/</loc>
     <lastmod>2016-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/antigen-recognition-site/</loc>
     <lastmod>2016-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication/bitarello-2016/</loc>
     <lastmod>2016-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/r.s.-francisco/</loc>
     <lastmod>2016-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/1000-genomes/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/a.-krishnan/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/a.-sanchez-mazas/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/d.-lambert/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/d.-le-duc/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/d.y.c.-brandt/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/g.-renaud/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/g.s.-franca/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/h.b.-schioth/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication/dos-santos-francisco-2015/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/human-populations/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/j.-goudet/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/j.-kelso/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/j.m.-nunes/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/k.-prufer/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication/le-duc-2015/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/l.-huynen/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/m.-hofreiter/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/m.-ongyerth/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/m.s.-almen/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/mapping-bias/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication/brandt-2015/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/ngs/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/p.f.-stadler/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/r.-dos-santos-francisco/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/s.-buhler/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/s.j.-prohaska/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/t.-schoneberg/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/v.r.c.-aguiar/</loc>
     <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bbitarello.github.io/tags/dna/</loc>
-    <lastmod>2011-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/dna-antigo/</loc>
     <lastmod>2011-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication/bitarello-2011-a/</loc>
     <lastmod>2011-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/sequenciamento/</loc>
     <lastmod>2011-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/a.m.l.-de-azeredo-espin/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/dermatobia-hominis/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication/bitarello-2009/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://bbitarello.github.io/tags/dna/</loc>
+    <lastmod>2009-01-01T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/genalogy-studies/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/gene-genealogy/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/genographic/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/livestock-pest/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/m.l.-lyra/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/microsatellite/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/myiasis/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/o-f-the/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/oestridae/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/popularization-of/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication/project-2009/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/t-h-e-genographic-project/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/t-h-e-implications/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/t.t.-torres/</loc>
     <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/authors/admin/</loc>
     <lastmod>2020-04-16T23:48:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/tags/dn/ds/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/post/</loc>
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/talk/</loc>
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/publication/</loc>
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bbitarello.github.io/true/</loc>
   </url>
-  
 </urlset>

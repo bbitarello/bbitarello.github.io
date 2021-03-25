@@ -5,9 +5,9 @@
     <link>https://bbitarello.github.io/project/</link>
       <atom:link href="https://bbitarello.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2021 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Thu, 20 Aug 2020 14:10:30 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Copyright 2019-2021 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Thu, 20 Aug 2020 14:10:30 -0400</lastBuildDate>
     <image>
-      <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://bbitarello.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://bbitarello.github.io/project/</link>
     </image>
@@ -17,8 +17,7 @@
       <link>https://bbitarello.github.io/project/creative-coding/</link>
       <pubDate>Thu, 20 Aug 2020 14:10:30 -0400</pubDate>
       <guid>https://bbitarello.github.io/project/creative-coding/</guid>
-      <description>&lt;p&gt;Recently, a friend and I decided to collaborate on some creative coding projects. But of us stare at computers most of the day (
-&lt;a href=&#34;https://laura.rochaprado.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this is my friend&lt;/a&gt;). These projects are not work-related, but they do have the goal of helping us learn some coding tool we&amp;rsquo;re trying to master. For now, everything is very incipient but I will post more soon, as things develop. Stay tuned.&lt;/p&gt;
+      <description>&lt;p&gt;Recently, a friend and I decided to collaborate on some creative coding projects. But of us stare at computers most of the day (&lt;a href=&#34;https://laura.rochaprado.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this is my friend&lt;/a&gt;). These projects are not work-related, but they do have the goal of helping us learn some coding tool we&amp;rsquo;re trying to master. For now, everything is very incipient but I will post more soon, as things develop. Stay tuned.&lt;/p&gt;
 </description>
     </item>
     
@@ -28,19 +27,9 @@
       <pubDate>Fri, 14 Aug 2020 12:18:03 -0400</pubDate>
       <guid>https://bbitarello.github.io/project/balancing-selection/</guid>
       <description>&lt;p&gt;Balancing selection is an umbrella turn for several evolutionary mechanisms through which adaptive variation is maintained in populations. While it is often understood as simply overdominance or heterozygote advantage, it encompasses not only that mechanism, but also antagonistic selection, fluctuating selection in time/space, negative frequency dependent selection, to name a few.&lt;/p&gt;
-&lt;p&gt;I first started working with balancing selection in my Masters, where I focused on HLA (human MHC) genes and their evolution. I showed that those genes in humans 
-&lt;a href=&#34;https://bbitarello.github.io/publication/bitarello-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;harbour signtures os divergent allele advantage&lt;/a&gt; (a particular form of overdominance). I then became more interested in balancing selection at large, and focused on understanding its impact in human evolutionary history in my PhD. Co-supervised by 
-&lt;a href=&#34;https://wp.cs.ucl.ac.uk/evol-genome/people/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aida Andrés&lt;/a&gt; and 
-&lt;a href=&#34;https://genevol.ib.usp.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diogo Meyer&lt;/a&gt;, and with several collaborators, we created a 
-&lt;a href=&#34;https://bbitarello.github.io/publication/meyer-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new method tailored to detect signatures of long-term balancing selection&lt;/a&gt;, which has since been implemented by researchers studying humans (e.g., 
-&lt;a href=&#34;https://bbitarello.github.io/publication/carla-giner-delgado-sergi-villatoro-jon-lerga-jaso-magdalena-gaya-vidal-meritxell-oliva-david-castellano-lorena-pantano-barbara-bitarello-david-izquierdo-isaac-noguera-inigo-olalde-alejandra-delprat-antoine-blancher-carles-lalueza-fox-tonu-e-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, and 
-&lt;a href=&#34;https://bbitarello.github.io/publication/mathieson-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;) and non-human organisms (e.g., a 
-&lt;a href=&#34;https://www.nature.com/articles/s41559-020-1201-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;copepod&lt;/a&gt;), and 
-&lt;a href=&#34;https://academic.oup.com/mbe/article/36/1/177/5150441&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;at least one  modification of our original method has been developed&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;In collaboration with the Meyer Lab, 
-&lt;a href=&#34;https://bbitarello.github.io/publication/meyer-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I&amp;rsquo;ve written a review on the genomics of HLA evolution&lt;/a&gt;, where balancing selection is a key factor.&lt;/p&gt;
-&lt;p&gt;You can find the GitHub repo with the code for the NCD-statistics 
-&lt;a href=&#34;https://github.com/bbitarello/NCD-Statistics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I first started working with balancing selection in my Masters, where I focused on HLA (human MHC) genes and their evolution. I showed that those genes in humans &lt;a href=&#34;https://bbitarello.github.io/publication/bitarello-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;harbour signtures os divergent allele advantage&lt;/a&gt; (a particular form of overdominance). I then became more interested in balancing selection at large, and focused on understanding its impact in human evolutionary history in my PhD. Co-supervised by &lt;a href=&#34;https://wp.cs.ucl.ac.uk/evol-genome/people/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aida Andrés&lt;/a&gt; and &lt;a href=&#34;https://genevol.ib.usp.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diogo Meyer&lt;/a&gt;, and with several collaborators, we created a &lt;a href=&#34;https://bbitarello.github.io/publication/meyer-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new method tailored to detect signatures of long-term balancing selection&lt;/a&gt;, which has since been implemented by researchers studying humans (e.g., &lt;a href=&#34;https://bbitarello.github.io/publication/carla-giner-delgado-sergi-villatoro-jon-lerga-jaso-magdalena-gaya-vidal-meritxell-oliva-david-castellano-lorena-pantano-barbara-bitarello-david-izquierdo-isaac-noguera-inigo-olalde-alejandra-delprat-antoine-blancher-carles-lalueza-fox-tonu-e-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, and &lt;a href=&#34;https://bbitarello.github.io/publication/mathieson-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;) and non-human organisms (e.g., a &lt;a href=&#34;https://www.nature.com/articles/s41559-020-1201-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;copepod&lt;/a&gt;), and &lt;a href=&#34;https://academic.oup.com/mbe/article/36/1/177/5150441&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;at least one  modification of our original method has been developed&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In collaboration with the Meyer Lab, &lt;a href=&#34;https://bbitarello.github.io/publication/meyer-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I&amp;rsquo;ve written a review on the genomics of HLA evolution&lt;/a&gt;, where balancing selection is a key factor.&lt;/p&gt;
+&lt;p&gt;You can find the GitHub repo with the code for the NCD-statistics &lt;a href=&#34;https://github.com/bbitarello/NCD-Statistics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This is an ongoing topic of interest for me, and I am &lt;strong&gt;activley looking for guest lecturer teaching opportunities&lt;/strong&gt; and collaboration opportunities, so &lt;strong&gt;do reach out&lt;/strong&gt; if you&amp;rsquo;re interested in either of these.&lt;/p&gt;
 </description>
     </item>
@@ -52,10 +41,7 @@
       <guid>https://bbitarello.github.io/project/polygenic/</guid>
       <description>&lt;p&gt;Polygenic risk scores (PRS) summarise the genetic information spread across several genetic variants into one single number. This number can be use to predict an individual&amp;rsquo;s phenotype or - more realistically - to place an individual in risk groups according to their PRS.&lt;/p&gt;
 &lt;p&gt;Many different steps are involved in calculating a PRS that is meaningful. For instance, the quality of the summary statistics is paramount. The choice of which variants to include in the PRS is also far from trivial and can involve simple &lt;em&gt;ad hoc&lt;/em&gt; approaches (such as C+T) or model-based approaches such as LDpred and LDpred2. Finally, there are the issues of validation and overfitting in the validation set, as well as the even more complicated issue of transferability of polygenic risk scores across ancestries. The interplay of this complex array of factors in determining prediction accuracy across ancestries is the focus of this project.&lt;/p&gt;
-&lt;p&gt;I have been actively working on this with 
-&lt;a href=&#34;https://www.med.upenn.edu/mathieson-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iain Mathieson&lt;/a&gt;. We have a 
-&lt;a href=&#34;https://bbitarello.github.io/publication/bitarello-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;  and I have given 
-&lt;a href=&#34;https://bbitarello.github.io/talk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;several talks&lt;/a&gt; on this topic recently.&lt;/p&gt;
+&lt;p&gt;I have been actively working on this with &lt;a href=&#34;https://www.med.upenn.edu/mathieson-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iain Mathieson&lt;/a&gt;. We have a &lt;a href=&#34;https://bbitarello.github.io/publication/bitarello-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;  and I have given &lt;a href=&#34;https://bbitarello.github.io/talk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;several talks&lt;/a&gt; on this topic recently.&lt;/p&gt;
 &lt;p&gt;This is an ongoing topic of interest for me, and I am &lt;strong&gt;activley looking for guest lecturer teaching opportunities&lt;/strong&gt; and collaboration opportunities, so &lt;strong&gt;do reach out&lt;/strong&gt; if you&amp;rsquo;re interested in either of these.&lt;/p&gt;
 </description>
     </item>
