@@ -5,12 +5,20 @@
     <link>https://bbitarello.github.io/tags/ancestry/</link>
       <atom:link href="https://bbitarello.github.io/tags/ancestry/index.xml" rel="self" type="application/rss+xml" />
     <description>ancestry</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2021 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Fri, 25 Sep 2020 16:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2021 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>ancestry</title>
       <link>https://bbitarello.github.io/tags/ancestry/</link>
     </image>
+    
+    <item>
+      <title>Polygenic scores for height in admixed populations</title>
+      <link>https://bbitarello.github.io/publication/bitarello-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://bbitarello.github.io/publication/bitarello-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What drives the reduced prediction accuracy of polygenic scores in non-European individuals?</title>
@@ -47,14 +55,6 @@
       <link>https://bbitarello.github.io/talk/low/</link>
       <pubDate>Fri, 17 Jan 2020 12:00:00 -1220</pubDate>
       <guid>https://bbitarello.github.io/talk/low/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polygenic scores for height in admixed populations</title>
-      <link>https://bbitarello.github.io/publication/bitarello-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://bbitarello.github.io/publication/bitarello-2020/</guid>
       <description></description>
     </item>
     

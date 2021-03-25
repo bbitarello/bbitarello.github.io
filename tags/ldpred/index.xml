@@ -5,12 +5,20 @@
     <link>https://bbitarello.github.io/tags/ldpred/</link>
       <atom:link href="https://bbitarello.github.io/tags/ldpred/index.xml" rel="self" type="application/rss+xml" />
     <description>ldpred</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2021 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Sat, 04 Jul 2020 14:18:14 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2021 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>ldpred</title>
       <link>https://bbitarello.github.io/tags/ldpred/</link>
     </image>
+    
+    <item>
+      <title>Polygenic scores for height in admixed populations</title>
+      <link>https://bbitarello.github.io/publication/bitarello-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://bbitarello.github.io/publication/bitarello-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What drives the reduced prediction accuracy of polygenic scores in non-European individuals?</title>
@@ -73,14 +81,6 @@
 &lt;a href=&#34;../../../../files/LDpred2_Journal_Club_4.pdf&#34;&gt;a slide presentation&lt;/a&gt; for discussing the 
 &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.28.066720v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LDpred2 preprint&lt;/a&gt;. Use freely but please give me attribution by referencing my website and my github. Thank you.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Polygenic scores for height in admixed populations</title>
-      <link>https://bbitarello.github.io/publication/bitarello-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://bbitarello.github.io/publication/bitarello-2020/</guid>
-      <description></description>
     </item>
     
   </channel>

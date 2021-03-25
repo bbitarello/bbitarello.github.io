@@ -5,12 +5,20 @@
     <link>https://bbitarello.github.io/tags/prediction/</link>
       <atom:link href="https://bbitarello.github.io/tags/prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>prediction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2021 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Fri, 25 Sep 2020 16:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2021 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bbitarello.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>prediction</title>
       <link>https://bbitarello.github.io/tags/prediction/</link>
     </image>
+    
+    <item>
+      <title>Polygenic scores for height in admixed populations</title>
+      <link>https://bbitarello.github.io/publication/bitarello-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://bbitarello.github.io/publication/bitarello-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Theoretical and empirical quantification of the accuracy of polygenic scores in ancestry divergent populations</title>
@@ -41,14 +49,6 @@
 &lt;a href=&#34;https://bbitarello.github.io/talk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;several talks&lt;/a&gt; on this topic recently.&lt;/p&gt;
 &lt;p&gt;This is an ongoing topic of interest for me, and I am &lt;strong&gt;activley looking for guest lecturer teaching opportunities&lt;/strong&gt; and collaboration opportunities, so &lt;strong&gt;do reach out&lt;/strong&gt; if you&amp;rsquo;re interested in either of these.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Polygenic scores for height in admixed populations</title>
-      <link>https://bbitarello.github.io/publication/bitarello-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://bbitarello.github.io/publication/bitarello-2020/</guid>
-      <description></description>
     </item>
     
   </channel>
